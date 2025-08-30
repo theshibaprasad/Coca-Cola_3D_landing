@@ -3,12 +3,13 @@
 <div align="center">
   <h2>🎬 Project Screenshots</h2>
   
-  <div style="margin: 20px 0;">
-    <div style="text-align: center; margin-bottom: 30px;">
-      <h3>🏠 Hero Section - 3D Scene with Interactive Elements</h3>
-      <img src="src/slices/Hero/screenshot-default.png" alt="Hero Section - 3D Scene with Bubbles" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); border: 3px solid #e5e7eb;" />
-    </div>
-  </div>
+  <img src="src/slices/Hero/screenshot-default.png" alt="Hero Section" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  
+  <img src="src/slices/Carousel/screenshot-default.png" alt="Interactive Carousel" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  
+  <img src="src/slices/BigText/screenshot-default 10.21.24 PM.png" alt="Big Text Section" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  
+  <img src="src/slices/SkyDive/screenshot-default 10.20.18 PM.png" alt="Sky Dive Section" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
 </div>
 
 ## 🚀 Key Features
