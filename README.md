@@ -3,21 +3,32 @@
 <div align="center">
   <h2>🎬 Project Screenshots</h2>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <h3>🏠 Hero Section</h3>
-      <img src="src/slices/Hero/screenshot-default.png" alt="Hero Section - 3D Scene with Bubbles" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  <div style="margin: 20px 0;">
+    <div style="text-align: center; margin-bottom: 30px;">
+      <h3>🏠 Hero Section - 3D Scene with Interactive Elements</h3>
+      <img src="src/slices/Hero/screenshot-default.png" alt="Hero Section - 3D Scene with Bubbles" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); border: 3px solid #e5e7eb;" />
     </div>
     
-    <div style="text-align: center;">
-      <h3>🎠 Interactive Carousel</h3>
-      <img src="src/slices/Carousel/screenshot-default.png" alt="Interactive Carousel with 3D Soda Cans" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
+      <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f3f4f6, #e5e7eb); border-radius: 12px; border: 2px solid #d1d5db;">
+        <h4>🎠 Interactive Carousel</h4>
+        <p style="color: #374151; margin: 10px 0;">3D Soda Can Rotation with Multiple Flavors</p>
+        <div style="font-size: 48px; margin: 10px 0;">🥤</div>
+      </div>
+      
+      <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fef3c7, #fde68a); border-radius: 12px; border: 2px solid #f59e0b;">
+        <h4>📝 Dynamic Text Sections</h4>
+        <p style="color: #92400e; margin: 10px 0;">Animated Typography & Content</p>
+        <div style="font-size: 48px; margin: 10px 0;">✨</div>
+      </div>
+      
+      <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #dbeafe, #93c5fd); border-radius: 12px; border: 2px solid #3b82f6;">
+        <h4>🪂 Sky Dive Section</h4>
+        <p style="color: #1e40af; margin: 10px 0;">Immersive 3D Environments</p>
+        <div style="font-size: 48px; margin: 10px 0;">🚀</div>
+      </div>
     </div>
   </div>
-  
-  <p style="margin-top: 20px; color: #666; font-style: italic;">
-    🎯 <strong>Additional Sections:</strong> Big Text, Sky Dive, and Alternating Text sections with dynamic 3D content and animations
-  </p>
 </div>
 
 <br>
