@@ -13,17 +13,11 @@
       <h3>🎠 Interactive Carousel</h3>
       <img src="src/slices/Carousel/screenshot-default.png" alt="Interactive Carousel with 3D Soda Cans" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
     </div>
-    
-    <div style="text-align: center;">
-      <h3>📝 Big Text Section</h3>
-      <img src="src/slices/BigText/screenshot-default 10.21.24 PM.png" alt="Big Text Section with Typography" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
-    </div>
-    
-    <div style="text-align: center;">
-      <h3>🪂 Sky Dive Section</h3>
-      <img src="src/slices/SkyDive/screenshot-default 10.20.18 PM.png" alt="Sky Dive Section with 3D Elements" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
-    </div>
   </div>
+  
+  <p style="margin-top: 20px; color: #666; font-style: italic;">
+    🎯 <strong>Additional Sections:</strong> Big Text, Sky Dive, and Alternating Text sections with dynamic 3D content and animations
+  </p>
 </div>
 
 <br>
