@@ -7,9 +7,9 @@
   
   <img src="src/slices/Carousel/screenshot-default.png" alt="Interactive Carousel" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
   
-  <img src="src/slices/BigText/screenshot-default 10.21.24 PM.png" alt="Big Text Section" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  <img src="src/slices/BigText/screenshot-default.png" alt="Big Text Section" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
   
-  <img src="src/slices/SkyDive/screenshot-default 10.20.18 PM.png" alt="Sky Dive Section" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  <img src="src/slices/SkyDive/screenshot-default.png" alt="Sky Dive Section" width="800" style="margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
 </div>
 
 ## 🚀 Key Features
